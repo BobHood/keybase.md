@@ -1,11 +1,10 @@
-
 ### Keybase proof
 
 I hereby claim:
 
   * I am bobhood on github.
   * I am blackknight (https://keybase.io/blackknight) on keybase.
-  * I have a public key ASCWdsvPj-niOj7bd7D--nRq0N2K3P8rwBAfycOhfifMQwo
+  * I have a public key ASDTi1_vtbMEWtYI_eSfTXW6BZLWiK0mJ4NDKqOXNYiG0wo
 
 To claim this, I am signing this object:
 
@@ -13,20 +12,20 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "012049fdca3c627dc1a4363dff46cf4ebfee8d98897ae253144e3428dcf9925acf640a",
+      "eldest_kid": "0120f553c84017fd3dc8e1d3914930ae27f55403823ca3b41c0f44db42ba1be6c5530a",
       "host": "keybase.io",
-      "kid": "01209676cbcf8fe9e23a3edb77b0fefa746ad0dd8adcff2bc0101fc9c3a17e27cc430a",
+      "kid": "0120d38b5fefb5b3045ad608fde49f4d75ba0592d688ad262783432aa397358886d30a",
       "uid": "69f2eaa6595aad817619567c8e0d1619",
       "username": "blackknight"
     },
     "merkle_root": {
-      "ctime": 1646170365,
-      "hash": "e084cf4676871faedc37a3090f137215230c7815efa5a909729752dbea25662913a43d7557ce82d3ca866221c270181b1368f102a939bb38e81127fd00733413",
-      "hash_meta": "0e5e8179f39c8b28c2fc82dd007a2b0d5d4e6de8e6158a296f8293db0ab47ba6",
-      "seqno": 21984604
+      "ctime": 1764780867,
+      "hash": "6c466afb02a56da1744d0c3ff948cf2e3deaab6b2b4c65bb6fa0d024b9e4b185226c293336828b396f1a310ceb6e2cbcff668927baf60273ea9e62bf74cd40bd",
+      "hash_meta": "45d4f5a3e96a91c2550600ef73e9c97ba03d77ae9267676575714d18ad625dab",
+      "seqno": 27270074
     },
     "service": {
-      "entropy": "jBUBZNnw0C48XvSeNXXOt2+C",
+      "entropy": "31gVOq/vJrNi/yJdIIeTTs6S",
       "name": "github",
       "username": "bobhood"
     },
@@ -35,20 +34,20 @@ To claim this, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "5.9.2"
+    "version": "6.5.4"
   },
-  "ctime": 1646170375,
+  "ctime": 1764780927,
   "expire_in": 504576000,
-  "prev": "5998e3df5114e2f9fbfe3923758d786f4962de4774ca61bdcb2c2be72dbbb209",
-  "seqno": 23,
+  "prev": "6ed34f3b088c4093dffc051ffb2d870182d15be4b5269d14a8f9259b7bfca624",
+  "seqno": 44,
   "tag": "signature"
 }
 ```
 
-with the key [ASCWdsvPj-niOj7bd7D--nRq0N2K3P8rwBAfycOhfifMQwo](https://keybase.io/blackknight), yielding the signature:
+with the key [ASDTi1_vtbMEWtYI_eSfTXW6BZLWiK0mJ4NDKqOXNYiG0wo](https://keybase.io/blackknight), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglnbLz4/p4jo+23ew/vp0atDditz/K8AQH8nDoX4nzEMKp3BheWxvYWTESpcCF8QgWZjj31EU4vn7/jkjdY14b0li3kd0ymG9yywr5y27sgnEII9J+EAtnJT/4NB7nlhUgo0R6IiqlLDy7wcmtnuzyrg1AgHCo3NpZ8RAZsy96qHXRA/0ehsBgA5IaTJjMDwKHt8Kho+HYPPd9kDTYdybdDK5RsXfP9nyfQOuyqBD6mCHh9v6QOE3t6CnAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDim9HcJsnbCkuKVPQx24yRhbM/2ZUaedMj/Y85viImmo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg04tf77WzBFrWCP3kn011ugWS1oitJieDQyqjlzWIhtMKp3BheWxvYWTESpcCLMQgbtNPOwiMQJPf/AUf+y2HAYLRW+S1Jp0UqPklm3v8piTEIM8ENJRoJXWB05LkuE5ttq79xaMOZsaUaNosLTyiJMOfAgHCo3NpZ8RADzKkWx7vLbSCPOXiLyphwWP6WMAuyUxbBcBO+oiI2yGiM9zGz9ei9a3jenvrxTYej9aP9yBRWkrtQWWnCxM6AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMEq8TrS/3X5WY8cEF1qHw1bqUHj7hQx8Y1q0JmrMsi4o3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
